@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/cloudmosaic-react/static/css/main.b89600a3.css",
-    "main.js": "/cloudmosaic-react/static/js/main.ed0f169c.js",
+    "main.js": "/cloudmosaic-react/static/js/main.d62f6d9d.js",
     "static/media/fa-solid-900.woff2": "/cloudmosaic-react/static/media/fa-solid-900.ce9a3fa740bd60b4ac3b.woff2",
     "static/media/fa-brands-400.woff2": "/cloudmosaic-react/static/media/fa-brands-400.f276979f97f1cf375d23.woff2",
     "static/media/fa-regular-400.woff2": "/cloudmosaic-react/static/media/fa-regular-400.cfbad32c79d9dda6af4a.woff2",
     "static/media/fa-v4compatibility.woff2": "/cloudmosaic-react/static/media/fa-v4compatibility.296da06936a3373940c8.woff2",
     "index.html": "/cloudmosaic-react/index.html",
     "main.b89600a3.css.map": "/cloudmosaic-react/static/css/main.b89600a3.css.map",
-    "main.ed0f169c.js.map": "/cloudmosaic-react/static/js/main.ed0f169c.js.map"
+    "main.d62f6d9d.js.map": "/cloudmosaic-react/static/js/main.d62f6d9d.js.map"
   },
   "entrypoints": [
     "static/css/main.b89600a3.css",
-    "static/js/main.ed0f169c.js"
+    "static/js/main.d62f6d9d.js"
   ]
 }
