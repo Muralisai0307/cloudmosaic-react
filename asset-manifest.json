@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/cloudmosaic-react/static/css/main.6945b209.css",
-    "main.js": "/cloudmosaic-react/static/js/main.6ca39b8c.js",
+    "main.js": "/cloudmosaic-react/static/js/main.7460079f.js",
     "static/css/332.5941409e.chunk.css": "/cloudmosaic-react/static/css/332.5941409e.chunk.css",
     "static/js/332.d5ca550e.chunk.js": "/cloudmosaic-react/static/js/332.d5ca550e.chunk.js",
     "static/css/309.2fac9116.chunk.css": "/cloudmosaic-react/static/css/309.2fac9116.chunk.css",
@@ -13,7 +13,7 @@
     "static/css/858.dd890d1d.chunk.css": "/cloudmosaic-react/static/css/858.dd890d1d.chunk.css",
     "static/js/858.5c9d0f3b.chunk.js": "/cloudmosaic-react/static/js/858.5c9d0f3b.chunk.js",
     "static/css/873.a3bbab04.chunk.css": "/cloudmosaic-react/static/css/873.a3bbab04.chunk.css",
-    "static/js/873.0799c21c.chunk.js": "/cloudmosaic-react/static/js/873.0799c21c.chunk.js",
+    "static/js/873.6653590d.chunk.js": "/cloudmosaic-react/static/js/873.6653590d.chunk.js",
     "static/css/485.334ed4ac.chunk.css": "/cloudmosaic-react/static/css/485.334ed4ac.chunk.css",
     "static/js/485.85ba40b0.chunk.js": "/cloudmosaic-react/static/js/485.85ba40b0.chunk.js",
     "static/css/404.bfb79422.chunk.css": "/cloudmosaic-react/static/css/404.bfb79422.chunk.css",
@@ -34,7 +34,7 @@
     "static/media/fa-v4compatibility.woff2": "/cloudmosaic-react/static/media/fa-v4compatibility.296da06936a3373940c8.woff2",
     "index.html": "/cloudmosaic-react/index.html",
     "main.6945b209.css.map": "/cloudmosaic-react/static/css/main.6945b209.css.map",
-    "main.6ca39b8c.js.map": "/cloudmosaic-react/static/js/main.6ca39b8c.js.map",
+    "main.7460079f.js.map": "/cloudmosaic-react/static/js/main.7460079f.js.map",
     "332.5941409e.chunk.css.map": "/cloudmosaic-react/static/css/332.5941409e.chunk.css.map",
     "332.d5ca550e.chunk.js.map": "/cloudmosaic-react/static/js/332.d5ca550e.chunk.js.map",
     "309.2fac9116.chunk.css.map": "/cloudmosaic-react/static/css/309.2fac9116.chunk.css.map",
@@ -46,7 +46,7 @@
     "858.dd890d1d.chunk.css.map": "/cloudmosaic-react/static/css/858.dd890d1d.chunk.css.map",
     "858.5c9d0f3b.chunk.js.map": "/cloudmosaic-react/static/js/858.5c9d0f3b.chunk.js.map",
     "873.a3bbab04.chunk.css.map": "/cloudmosaic-react/static/css/873.a3bbab04.chunk.css.map",
-    "873.0799c21c.chunk.js.map": "/cloudmosaic-react/static/js/873.0799c21c.chunk.js.map",
+    "873.6653590d.chunk.js.map": "/cloudmosaic-react/static/js/873.6653590d.chunk.js.map",
     "485.334ed4ac.chunk.css.map": "/cloudmosaic-react/static/css/485.334ed4ac.chunk.css.map",
     "485.85ba40b0.chunk.js.map": "/cloudmosaic-react/static/js/485.85ba40b0.chunk.js.map",
     "404.bfb79422.chunk.css.map": "/cloudmosaic-react/static/css/404.bfb79422.chunk.css.map",
@@ -64,6 +64,6 @@
   },
   "entrypoints": [
     "static/css/main.6945b209.css",
-    "static/js/main.6ca39b8c.js"
+    "static/js/main.7460079f.js"
   ]
 }
