@@ -18,26 +18,26 @@ function Team() {
 
   const teamMembers = [
     {
-      name: 'Sumanth Singidi',
+      name: 'Jyothi S',
+      title: 'Founder & CEO',
+      linkedin: 'https://linkedin.com/company/cloudmosaic',
+      twitter: 'https://twitter.com/cloudmosaic'
+    },
+    {
+      name: 'Karuna K',
+      title: 'Co-Founder',
+      linkedin: 'https://linkedin.com/company/cloudmosaic',
+      twitter: 'https://twitter.com/cloudmosaic'
+    },
+    {
+      name: 'Sumanth',
       title: 'Advisor',
-      linkedin: 'https://www.linkedin.com/in/sumanth-singidi/',
-      twitter: 'https://twitter.com/sumanth_singidi'
-    },
-    {
-      name: 'Sarah Johnson',
-      title: 'President, HR Consulting',
       linkedin: 'https://linkedin.com/company/cloudmosaic',
       twitter: 'https://twitter.com/cloudmosaic'
     },
     {
-      name: 'David Kim',
-      title: 'CTO',
-      linkedin: 'https://linkedin.com/company/cloudmosaic',
-      twitter: 'https://twitter.com/cloudmosaic'
-    },
-    {
-      name: 'Emily Rodriguez',
-      title: 'Head of Web Development',
+      name: 'Sumanth',
+      title: 'Advisor',
       linkedin: 'https://linkedin.com/company/cloudmosaic',
       twitter: 'https://twitter.com/cloudmosaic'
     }
