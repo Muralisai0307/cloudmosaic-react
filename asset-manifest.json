@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/cloudmosaic-react/static/css/main.6945b209.css",
-    "main.js": "/cloudmosaic-react/static/js/main.7460079f.js",
+    "main.js": "/cloudmosaic-react/static/js/main.dfa2ea83.js",
     "static/css/332.5941409e.chunk.css": "/cloudmosaic-react/static/css/332.5941409e.chunk.css",
     "static/js/332.d5ca550e.chunk.js": "/cloudmosaic-react/static/js/332.d5ca550e.chunk.js",
     "static/css/309.2fac9116.chunk.css": "/cloudmosaic-react/static/css/309.2fac9116.chunk.css",
-    "static/js/309.261339a3.chunk.js": "/cloudmosaic-react/static/js/309.261339a3.chunk.js",
+    "static/js/309.49b7424a.chunk.js": "/cloudmosaic-react/static/js/309.49b7424a.chunk.js",
     "static/css/999.05011558.chunk.css": "/cloudmosaic-react/static/css/999.05011558.chunk.css",
     "static/js/999.9233ee07.chunk.js": "/cloudmosaic-react/static/js/999.9233ee07.chunk.js",
     "static/css/231.ee428ba5.chunk.css": "/cloudmosaic-react/static/css/231.ee428ba5.chunk.css",
@@ -34,11 +34,11 @@
     "static/media/fa-v4compatibility.woff2": "/cloudmosaic-react/static/media/fa-v4compatibility.296da06936a3373940c8.woff2",
     "index.html": "/cloudmosaic-react/index.html",
     "main.6945b209.css.map": "/cloudmosaic-react/static/css/main.6945b209.css.map",
-    "main.7460079f.js.map": "/cloudmosaic-react/static/js/main.7460079f.js.map",
+    "main.dfa2ea83.js.map": "/cloudmosaic-react/static/js/main.dfa2ea83.js.map",
     "332.5941409e.chunk.css.map": "/cloudmosaic-react/static/css/332.5941409e.chunk.css.map",
     "332.d5ca550e.chunk.js.map": "/cloudmosaic-react/static/js/332.d5ca550e.chunk.js.map",
     "309.2fac9116.chunk.css.map": "/cloudmosaic-react/static/css/309.2fac9116.chunk.css.map",
-    "309.261339a3.chunk.js.map": "/cloudmosaic-react/static/js/309.261339a3.chunk.js.map",
+    "309.49b7424a.chunk.js.map": "/cloudmosaic-react/static/js/309.49b7424a.chunk.js.map",
     "999.05011558.chunk.css.map": "/cloudmosaic-react/static/css/999.05011558.chunk.css.map",
     "999.9233ee07.chunk.js.map": "/cloudmosaic-react/static/js/999.9233ee07.chunk.js.map",
     "231.ee428ba5.chunk.css.map": "/cloudmosaic-react/static/css/231.ee428ba5.chunk.css.map",
@@ -64,6 +64,6 @@
   },
   "entrypoints": [
     "static/css/main.6945b209.css",
-    "static/js/main.7460079f.js"
+    "static/js/main.dfa2ea83.js"
   ]
 }
