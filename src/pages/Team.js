@@ -20,26 +20,26 @@ function Team() {
     {
       name: 'Jyothi S',
       title: 'Founder & CEO',
-      linkedin: 'https://linkedin.com/company/cloudmosaic',
-      twitter: 'https://twitter.com/cloudmosaic'
+      linkedin: '#',
+      twitter: '#'
     },
     {
       name: 'Karuna K',
       title: 'Co-Founder',
-      linkedin: 'https://linkedin.com/company/cloudmosaic',
-      twitter: 'https://twitter.com/cloudmosaic'
+      linkedin: '#',
+      twitter: '#'
     },
     {
       name: 'Sumanth',
       title: 'Advisor',
-      linkedin: 'https://linkedin.com/company/cloudmosaic',
-      twitter: 'https://twitter.com/cloudmosaic'
+      linkedin: '#',
+      twitter: '#'
     },
     {
       name: 'Sumanth',
       title: 'Advisor',
-      linkedin: 'https://linkedin.com/company/cloudmosaic',
-      twitter: 'https://twitter.com/cloudmosaic'
+      linkedin: '#',
+      twitter: '#'
     }
   ];
 

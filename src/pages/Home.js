@@ -214,9 +214,9 @@ function Home() {
       "availableLanguage": "en"
     },
     "sameAs": [
-      "https://www.linkedin.com/company/cloudmosaic",
-      "https://twitter.com/cloudmosaic",
-      "https://github.com/cloudmosaic"
+      "#",
+      "#",
+      "#"
     ]
   };
 

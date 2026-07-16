@@ -46,10 +46,10 @@ function Footer() {
             <i className="fas fa-phone-alt" style={{ color: 'var(--accent-color)' }} aria-hidden="true"></i> +1 (720) 221-7062
           </p>
           <div className="social-links">
-            <a href="https://www.linkedin.com/company/cloudmosaic" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn"><i className="fab fa-linkedin-in" aria-hidden="true"></i></a>
-            <a href="https://twitter.com/cloudmosaic" target="_blank" rel="noopener noreferrer" aria-label="Twitter"><i className="fab fa-twitter" aria-hidden="true"></i></a>
-            <a href="https://github.com/cloudmosaic" target="_blank" rel="noopener noreferrer" aria-label="GitHub"><i className="fab fa-github" aria-hidden="true"></i></a>
-            <a href="https://www.facebook.com/cloudmosaic" target="_blank" rel="noopener noreferrer" aria-label="Facebook"><i className="fab fa-facebook-f" aria-hidden="true"></i></a>
+            <a href="#" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn"><i className="fab fa-linkedin-in" aria-hidden="true"></i></a>
+            <a href="#" target="_blank" rel="noopener noreferrer" aria-label="Twitter"><i className="fab fa-twitter" aria-hidden="true"></i></a>
+            <a href="#" target="_blank" rel="noopener noreferrer" aria-label="GitHub"><i className="fab fa-github" aria-hidden="true"></i></a>
+            <a href="#" target="_blank" rel="noopener noreferrer" aria-label="Facebook"><i className="fab fa-facebook-f" aria-hidden="true"></i></a>
           </div>
         </div>
         <div className="footer-section">
