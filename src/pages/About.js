@@ -74,13 +74,9 @@ function About() {
                 <div className="milestone-item">
                   <span className="milestone-year">2025</span>
                   <div>
-                    <p>Cloud Mosaic was founded by two passionate tech entrepreneurs.</p>
-                    <p>Key milestones:</p>
-                    <ul>
-                      <li>Founded by CEO Jyothi S and Co-Founder Karuna K.</li>
-                      <li>Successfully delivered the first cloud migration project.</li>
-                      <li>Expanded the team with skilled technology professionals.</li>
-                    </ul>
+                    <p>Company founded by two passionate tech entrepreneurs</p>
+                    <p>First cloud migration project successfully delivered</p>
+                    <p>Expanded team to 10+ professionals</p>
                   </div>
                 </div>
                 <div className="milestone-item">
