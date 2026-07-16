@@ -1,3 +1,4 @@
-# https://www.robotstxt.org/robotstxt.html
 User-agent: *
-Disallow:
+Allow: /
+
+Sitemap: https://Muralisai0307.github.io/cloudmosaic-react/sitemap.xml
