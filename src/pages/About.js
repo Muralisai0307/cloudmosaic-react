@@ -108,7 +108,31 @@ function About() {
         </div>
       </section>
 
+      {/* ===== FOUNDERS SECTION ===== */}
+      <section className="founders-section">
+        <div className="container">
+          <h2 className="section-title text-center" data-aos="fade-up">Meet Our Founders</h2>
+          <p className="section-subtitle text-center" data-aos="fade-up" data-aos-delay="100">Two visionaries with a shared passion for technology and innovation</p>
 
+          <div className="founders-grid">
+            <div className="founder-card" data-aos="zoom-in" style={{ minHeight: '400px' }}>
+              <h3>&nbsp;</h3>
+              <p className="founder-title">&nbsp;</p>
+            </div>
+            <div className="founder-card" data-aos="zoom-in" data-aos-delay="100" style={{ minHeight: '400px' }}>
+              <h3>&nbsp;</h3>
+              <p className="founder-title">&nbsp;</p>
+            </div>
+            <div className="founder-card" data-aos="zoom-in" data-aos-delay="200" style={{ minHeight: '400px' }}>
+              <h3>&nbsp;</h3>
+              <ul style={{ listStyleType: 'none', padding: 0 }}>
+                <li>&nbsp;</li>
+                <li>&nbsp;</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </section>
 
       {/* WHY CHOOSE US */}
       <section className="why-choose">
