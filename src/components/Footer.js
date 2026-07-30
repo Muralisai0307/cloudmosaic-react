@@ -66,7 +66,7 @@ function Footer() {
             </a>
 
             <a
-              href="/"
+              href="https://github.com/CloudMosaicAI"
               target="_blank"
               rel="noopener noreferrer"
               aria-label="GitHub"
