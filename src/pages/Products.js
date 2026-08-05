@@ -35,7 +35,7 @@ function Products() {
       features: ['Algorithmic Mastery', 'Cognitive Training', 'AI Analytics'],
       price: 'Subscription Based',
       link: 'https://www.brainzyx.com',
-      image: 'https://cloudmosaic.ai/Images/brainzyx.jpg',
+      image: 'https://images.unsplash.com/photo-1558494949-ef010cbdcc31?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80',
       isExternal: true
     }
   ];
