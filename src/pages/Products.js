@@ -35,7 +35,7 @@ function Products() {
       features: ['Algorithmic Mastery', 'Cognitive Training', 'AI Analytics'],
       price: 'Subscription Based',
       link: 'https://www.brainzyx.com',
-      image: 'https://images.unsplash.com/photo-1558494949-ef010cbdcc31?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80',
+      image: 'https://tse1.mm.bing.net/th/id/OIP.rkeX4tNgRPdoVAEu6fb75AHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3',
       isExternal: true
     }
   ];
@@ -67,7 +67,13 @@ function Products() {
               <div key={product.id} className="product-card-full" data-aos="fade-up" data-aos-delay={100 + (index * 50)}>
                 <div className={`product-badge ${product.badgeClass}`}>{product.badge}</div>
                 <div className="product-image">
-                  <img src={product.image} alt={product.name} loading="lazy" />
+                  <img 
+                    src={product.image}
+                    alt={product.name}
+                    loading="lazy"
+                    width="500"
+                    height="300"
+                  />
                   <div className="product-overlay">
                     <button className="product-quick-view" style={{ border: 'none', cursor: 'pointer' }} onClick={() => handleQuickView(product.name)} aria-label={`Quick view ${product.name}`}>
                       Quick View

@@ -19,12 +19,7 @@ function Home() {
   const { success, error, warning } = useNotification();
 
   useEffect(() => {
-    AOS.init({
-      duration: 800,
-      once: true,
-      offset: 100,
-      easing: 'ease-in-out'
-    });
+    // AOS is now initialized globally in App.js
   }, []);
 
   useEffect(() => {
@@ -330,7 +325,7 @@ function Home() {
           <div className="erp-logos-grid" data-aos="fade-up" data-aos-delay="100" style={{ display: 'flex', justifyContent: 'center' }}>
             <a href="https://www.goldenflitch.com/projects/erpforce" target="_blank" rel="noopener noreferrer" style={{ textDecoration: 'none', display: 'block' }} aria-label="Go to Force ERP Project">
               <div className="erp-logo-card" style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', width: '260px', height: '160px', padding: '0', overflow: 'hidden' }}>
-                <img src="https://cloudmosaic.ai/Images/Force-ERP.jpeg" alt="Force ERP Logo" style={{ width: '100%', height: '100%', maxWidth: '100%', objectFit: 'cover', margin: '0' }} loading="lazy" />
+                <img src="https://tse2.mm.bing.net/th/id/OIP.XzZJPX--wNv0evSukWytBQHaEK?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" alt="Force ERP Logo" style={{ width: '100%', height: '100%', maxWidth: '100%', objectFit: 'cover', margin: '0' }} loading="lazy" />
               </div>
             </a>
           </div>

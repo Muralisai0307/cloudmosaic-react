@@ -1,6 +1,8 @@
 import React, { useEffect, lazy, Suspense } from 'react';
 import { BrowserRouter as Router, Routes, Route, useLocation } from 'react-router-dom';
 import { HelmetProvider } from 'react-helmet-async';
+import AOS from 'aos';
+import 'aos/dist/aos.css';
 import './styles/global.css';
 
 // Import Context Providers
@@ -34,12 +36,24 @@ function ScrollToTop() {
 
   useEffect(() => {
     window.scrollTo(0, 0);
+    setTimeout(() => {
+      AOS.refresh();
+    }, 100);
   }, [pathname]);
 
   return null;
 }
 
 function App() {
+  useEffect(() => {
+    AOS.init({
+      duration: 400,
+      once: true,
+      offset: 50,
+      easing: 'ease-in-out'
+    });
+  }, []);
+
   return (
     <ErrorBoundary>
       <HelmetProvider>

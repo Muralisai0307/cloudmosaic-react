@@ -7,12 +7,7 @@ import Footer from '../components/Footer';
 
 function Terms() {
   useEffect(() => {
-    AOS.init({
-      duration: 800,
-      once: true,
-      offset: 100,
-      easing: 'ease-in-out'
-    });
+    // AOS is now initialized globally in App.js
   }, []);
 
   return (
