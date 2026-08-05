@@ -1,6 +1,7 @@
 {
   "name": "cloudmosaic",
   "version": "0.1.0",
+  "homepage": "https://Muralisai0307.github.io/cloudmosaic-react",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^4.4.1",
